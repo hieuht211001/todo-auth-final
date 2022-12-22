@@ -5,6 +5,7 @@ This project was created for study purpose. Note that the project is referenced 
 MERN(MongoDB, Express.js, React.js, Node.js)
 Front-end: Typescript, react.js,...
 Back-end : Node.js, express.js,Database MongoDB
+REFERENCE: https://medium.com/@vipinswarnkar1989/mern-stack-crud-app-using-create-react-app-react-redux-3299059db793
 Project structure: 
   - Login
   - Logout
