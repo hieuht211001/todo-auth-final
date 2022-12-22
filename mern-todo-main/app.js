@@ -8,7 +8,7 @@ const User = require('./models/User');
 const bcrypt = require('bcrypt');
 const Todo = require('./models/Todo');
 
-mongoose.connect('your url here');
+mongoose.connect('mongodb+srv://admin:admin@finalpls.kkesmiq.mongodb.net/?retryWrites=true&w=majority');
 
 app.use(cors());
 app.use((bodyParser.json()));
